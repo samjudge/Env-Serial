@@ -1,0 +1,14 @@
+{
+    "name": "sam/judge",
+    "description": "reverse ORM package for env variables (forms)",
+    "authors": [
+        {
+            "name": "samjudge",
+            "email": "sam.m.w.judge@googlemail.com"
+        }
+    ],
+    "autoload" : {
+        "classmap" : ["./"]
+    },
+    "require": {}
+}
