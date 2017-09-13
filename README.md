@@ -1,6 +1,8 @@
 # Env-Serial
 PHP environment var to model serializer (validates input so you don't have to!) 
 
+Part of my the /sootlib namespace (like all my cantrips).
+
 Pretty simple little cantrip. I made this because using a bunch of isset($_POST[...]) is ugly as hell!! :)
 
 Simply create a model/entity that inherits from `Deserializable_Form`, with property names equal to the names in your form.
